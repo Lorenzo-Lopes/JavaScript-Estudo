@@ -21,6 +21,7 @@ listaDeDestinos.push(`Curitiba`)
 console.log(listaDeDestinos)
 listaDeDestinos.pop()
 console.log(listaDeDestinos)
-listaDeDestinos.slice(1,1)
+listaDeDestinos.splice(1,1)
 console.log(listaDeDestinos)
+console.log(listaDeDestinos[1])
 
